@@ -3,7 +3,7 @@
 This is a personal portfolio website project based on an amazing design I came across and now building it in REACT .
 
 ## Project Overview 
-The goal is to bring this sleek, modern portfolio design to life with code, showcasing the power of React and Tailwind for building responsive and visually appealing web applications.
+The goal is to bring this sleek, modern portfolio design to life with code .
 <br> <br>
 ![Screenshot 2024-09-08 112125](https://github.com/user-attachments/assets/34f40f06-bfe1-40ad-aa18-4f46276235e0)
 
